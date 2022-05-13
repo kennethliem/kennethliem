@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 I'm a 3rd year Computer Science student at Matana University. Have strong passion in Web Development and Mobile Development. Familiar with Web Development with PHP framework. Have strong skills in various programming languages such as PHP, JavaScript, Kotlin, and Python. I'm a hardworking person and an enthusiastic learner and always loves to seek something new.
 
 - 🌱 I’m currently learning Mobile development
