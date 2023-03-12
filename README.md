@@ -4,7 +4,6 @@ I'm a Computer Science student at Matana University. Have strong interest in Web
 
 - 🌱 I’m currently learning Mobile development
 - 🔭 I’m currently studying at Matana University majoring in Computer Science
-- ⚡ I like to sing when stuck working on code :)
 
 <p align="left">
 <a href="https://github.com/kennethliem">
